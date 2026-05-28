@@ -44,4 +44,4 @@ At a glance, the HealthNLP repositories include:
 
 
 ### Associated Projects
-Some of our projects are extensions to other public projects such as [Apache cTAKES](https://github.com/apache/ctakes) and [DeepPhe](https://github.com/DeepPhe).
+Some of our projects are modern upgrades to other public projects such as [Apache cTAKES](https://github.com/apache/ctakes) and [DeepPhe](https://github.com/DeepPhe).
