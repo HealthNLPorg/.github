@@ -2,7 +2,7 @@
 
 HealthNLP .org is home to natural language processing (NLP) projects related to health such as mining the clinical narrative of the electronic medical record.  We are dedicated to making state of the art clinical NLP projects publicly available for those on the cutting edge of biomedical research and AI.  
 
-At this time HealthNLP has over 20 public repositories.  Several repositories contain tools that are reuseable for any project with specific needs, such as the HNLP-TimeNorm tool that creates normalized ISO 8601 codes from raw text temporal expressions.  Other repositories contain code and resources developed for singular purpose with specific data, but can be adapted for other sites and data.  For instance, the LGT-SACT project that extracts timelines for Systemic Anti-Cancer Therapies can be given a different tokenizer and different LLM prompt to generate timelines for other even types.
+At this time HealthNLP has over 20 public repositories.  Several repositories contain tools that are reuseable for any project with specific needs, such as the HNLP-TimeNorm tool that creates normalized ISO 8601 codes from raw text temporal expressions.  Other repositories contain code and resources developed for singular purpose with specific data, but can be adapted for other sites and data.  For instance, the LGT-SACT project that extracts timelines for Systemic Anti-Cancer Therapies can be given a different tokenizer and different LLM prompt to generate timelines for other event types.
 
 At a glance, the HealthNLP repositories include:
 
