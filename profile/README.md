@@ -10,6 +10,9 @@ At this time HealthNLP has over 20 public repositories for several projects, inc
 [LGT-SACT](https://github.com/HealthNLPorg/lgt-sact)
 : Extracts and normalizes temporal information from clinical notes using fine-tuned LLMs. Specifically, Systemic Anti-Cancer Therapy (SACT) Timelines.
 
+[ClinGen](https://github.com/HealthNLPorg/clingen)
+: Extracts clinical genomic information from clinical notes using LLMs.
+
 [chemoTimelines Docker](https://github.com/HealthNLPorg/chemoTimelinesBaselineSystem)
 : Dockerizable source code for the baseline system for the [Chemotherapy Treatment Timelines Extraction from the Clinical Narrative](https://sites.google.com/view/chemotimelines2024/task-descriptions) shared task.
 
