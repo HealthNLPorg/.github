@@ -1,14 +1,16 @@
 # HealthNLP
 
-HealthNLP .org is home to natural language processing (NLP) projects related to health such as mining the clinical narrative of the electronic medical record.  
+HealthNLP .org is home to natural language processing (NLP) projects related to health such as mining the clinical narrative of the electronic medical record.  We are dedicated to making state of the art clinical NLP projects publicly available for those on the cutting edge of biomedical research and AI.  
 
-At this time HealthNLP has over 20 public repositories for several projects, including:
+At this time HealthNLP has over 20 public repositories.  Several repositories contain tools that are reuseable for any project with specific needs, such as the HNLP-TimeNorm tool that creates normalized ISO 8601 codes from raw text temporal expressions.  Other repositories contain code and resources developed for singular purpose with specific data, but can be adapted for other sites and data.  For instance, the LGT-SACT project that extracts timelines for Systemic Anticancer Therapies can be given a different tokenizer and different LLM prompt to generate timelines for other event types.
+
+At a glance, the HealthNLP repositories include:
 
 [HNLP-TimeNorm](https://github.com/HealthNLPorg/hnlp-timenorm)
 : Provides models for finding natural language expressions of dates and times and converting them to a normalized form.
 
 [LGT-SACT](https://github.com/HealthNLPorg/lgt-sact)
-: Extracts and normalizes temporal information from clinical notes using fine-tuned LLMs. Specifically, Systemic Anti-Cancer Therapy (SACT) Timelines.
+: Extracts and normalizes temporal information from clinical notes using fine-tuned LLMs. Specifically, Systemic Anticancer Therapy (SACT) Timelines.
 
 [ClinGen](https://github.com/HealthNLPorg/clingen)
 : Extracts clinical genomic information from clinical notes using LLMs.
@@ -45,4 +47,4 @@ At this time HealthNLP has over 20 public repositories for several projects, inc
 
 
 ### Associated Projects
-Some of our projects are extensions to other public projects such as [Apache cTAKES](https://github.com/apache/ctakes) and [DeepPhe](https://github.com/DeepPhe).
+Some of our projects are modern upgrades to other public projects such as [Apache cTAKES](https://github.com/apache/ctakes) and [DeepPhe](https://github.com/DeepPhe).
